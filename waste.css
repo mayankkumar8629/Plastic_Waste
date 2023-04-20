@@ -1,0 +1,36 @@
+#homepage{
+    background-image: url(Introduction.png);
+}
+#introduction{
+    background-image: url(what.png);
+}
+#about{
+    background-image: url(global.png);
+
+}
+#advantages{
+    background-image: url(ocean.png);
+
+}
+#government{
+    background-image: url(marine.png);
+
+}
+#price{
+    background-image: url(plastic\ waste.png);
+
+}
+#scheme{
+    background-image: url(country.png);
+
+}
+#apply{
+    background-image: url(cause.png);
+}
+#reduce{
+    background-image: url(reduce.png);
+}
+#footer{
+    background-image: linear-gradient(#4568dc , #b06ab3
+    );
+}
